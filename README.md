@@ -8,5 +8,6 @@ Features:
 * Real time output of the CSS syntax needed to make the current blend work for you in any project.  
 
 Site:  
+https://justin2172021.github.io/gradient-background-picker/
 
 
